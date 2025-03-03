@@ -7,6 +7,7 @@ Climate policy is a critical global issue, with numerous organizations publishin
 This project leverages Natural Language Processing (NLP) and Large Language Models (LLMs) to streamline the analysis of climate policies from multiple organizations. Using state-of-the-art AI-driven.
 
 ![Global Climate Policy Imapct Map](https://github.com/user-attachments/assets/39bcca68-8548-43db-941a-3230d7fea0d6)
+![charbot](https://github.com/user-attachments/assets/57127bb0-f8a1-4d1b-98c7-740e8709770f)
 
 Features
 - AI-powered chatbot for climate policy queries
