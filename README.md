@@ -8,12 +8,14 @@ This project leverages Natural Language Processing (NLP) and Large Language Mode
 
 ![Global Climate Policy Imapct Map](https://github.com/user-attachments/assets/39bcca68-8548-43db-941a-3230d7fea0d6)
 ![charbot](https://github.com/user-attachments/assets/57127bb0-f8a1-4d1b-98c7-740e8709770f)
+![Word Cloud](https://github.com/user-attachments/assets/702f2b48-6f78-46d3-87a5-580f5a2a7fe7)
 
 Features
 - AI-powered chatbot for climate policy queries
 - NLP-based policy similarity search
 - Interactive visualizations for policy insights
 - Supports Dash, OpenAI GPT, FAISS, and Sentence Transformers
+![Average Policy Impact Score](https://github.com/user-attachments/assets/436da2ee-9e8a-46df-aeb4-8cf98c5fa74d)
 
 Dataset Sources
 Climate Policy Database (198 countries' mitigation policies)
