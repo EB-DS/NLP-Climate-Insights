@@ -1,14 +1,18 @@
 # AI-Powered Climate Policy Analyzer 
 ## Analyze climate policies using NLP and LLMs
 
-Overview
-This project leverages Natural Language Processing (NLP) and Large Language Models (LLMs) to analyze climate policies from various organizations. It helps users understand, compare, and extract insights from climate-related policies using an AI-driven chatbot and interactive visualizations.
+### Overview
+Climate policy is a critical global issue, with numerous organizations publishing policies aimed at mitigating climate change, adapting to its effects, and achieving sustainability goals. However, navigating and understanding these policies can be complex due to their varied structures, terminologies, and formats.
+
+This project leverages Natural Language Processing (NLP) and Large Language Models (LLMs) to streamline the analysis of climate policies from multiple organizations. Using state-of-the-art AI-driven.
+
+![Global Climate Policy Imapct Map](https://github.com/user-attachments/assets/39bcca68-8548-43db-941a-3230d7fea0d6)
 
 Features
-✅ AI-powered chatbot for climate policy queries
-✅ NLP-based policy similarity search
-✅ Interactive visualizations for policy insights
-✅ Supports Dash, OpenAI GPT, FAISS, and Sentence Transformers
+- AI-powered chatbot for climate policy queries
+- NLP-based policy similarity search
+- Interactive visualizations for policy insights
+- Supports Dash, OpenAI GPT, FAISS, and Sentence Transformers
 
 Dataset Sources
 Climate Policy Database (198 countries' mitigation policies)
@@ -17,3 +21,4 @@ IPCC Reports (Climate change, adaptation, and mitigation)
 World Bank Climate Indicators (CO2 emissions, climate finance)
 NASA & NOAA (Global temperature trends)
 UNFCCC Reports (International climate agreements)
+
